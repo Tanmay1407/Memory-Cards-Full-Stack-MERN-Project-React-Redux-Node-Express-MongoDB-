@@ -27,5 +27,5 @@ mongoose
   .catch((error) => console.log(error));
 app.use("/post", postRouter);
 app.get("/",(req,res)=>{
-  res.send("Welcome to Memory Cards API")
+  res.send("Welcome to Memory_Cards API")
 })
