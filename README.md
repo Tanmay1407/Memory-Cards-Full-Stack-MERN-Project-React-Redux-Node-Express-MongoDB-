@@ -1,4 +1,3 @@
-# Memory-Cards-Full-Stack-MERN-Project-React-Redux-Node-Express-MongoDB-
 <h1>Full Stack MERN Project | React + Redux, Node, Express, MongoDB | Deploy : https://memory-cards-tanmay.netlify.app/ </h1>
 <p>Memory Cards is a Full-Stack MERN web application that can be used to store your memories in form card templates, i.e. a Memory Card would contain the name of the Creator, Title, Message, #tags related to the memory & an image, also one could Like or Delete a card.</p>
 <br>
